@@ -19,4 +19,4 @@ Now, in order to predict, whether the customer would be interested in Vehicle In
 11. Vintage - Number of Days, Customer has been associated with the company
 12. Response - 1 : Customer is interested, 0 : Customer is not interested
 
-Descriptive analytics and statistics on the dataset is produced along with data preprocessing steps in the datavisualisation-preprocessing file and prediction is done in the predictivemodels file.
+Descriptive analytics and statistics on the dataset is produced along with data preprocessing steps in datavisualisation-preprocessing.ipynb and prediction is done in predictivemodels.ipynb.
